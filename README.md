@@ -18,7 +18,7 @@
 
 <font  size="20"><center>
 
-Concepção de integração de aplicações
+Processamento de imagens e detecção de objetos
 
 </center></font>
 
@@ -147,7 +147,8 @@ O resultado final é o seguinte, quando a câmera detecta alguma fixura, ela ind
 
 **<font  size=2> Resultado do código funcionado</font>**
 
-Vídeo de funcionamento se encontra no Github, na pasta './media'
+Vídeo de funcionamento se encontra no Github, na pasta './media' ou nesse link:
+https://drive.google.com/file/d/1LpTBWuos-8VHA16Mfy89EmOG-KlGkDCX/view?usp=sharing
 
 
 ## Conclusão
