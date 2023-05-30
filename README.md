@@ -110,9 +110,6 @@ https://www.youtube.com/watch?v=vFGxM2KLs10
 Link do Dataset:
 https://universe.roboflow.com/university-bswxt/crack-bphdr/dataset/2
 
-Logo abaixo segue o link para conferir o funcionamento da atividade.
-https://drive.google.com/file/d/1mlPCqhb1jqlHhZ1le4YVIU_54lTdiejy/view?usp=sharing
-
 *Nota: O resultado final da nossa aplicação é diferente da mostrada no tutorial, mas ela gera o mesmo resultado final. A parte que utilizamos no tutorial é principalmente a exportação do  dataset.
 
 Após entendermos como é feita a exportação do dataset para o Colab, já que o código abaixo vai requisitar uma 'Api Key' , agora vamos utilizar essas informações para treinar a nossa Inteligência Artificial.
